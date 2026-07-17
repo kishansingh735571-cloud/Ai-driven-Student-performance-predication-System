@@ -1,0 +1,1 @@
+Student performance prediction uses machine learning to guess student grades or pass/fail status based on historical data. Key features include academic history (past grades), behavior (study hours and attendance), demographics (parental education and income), and lifestyle (sleep and extracurriculars). Models use this data to calculate predictions
